@@ -1,0 +1,181 @@
+.navv{
+    position: sticky;
+    top: 20px;
+}
+.navBar img{
+    max-width: 35%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+a{
+    color: #a7e8bd;
+}
+.navBar li{
+    display: inline;
+    font-size: 25px;
+    color: #a7e8bd;
+    float: right;
+}
+.navBar{
+    margin-right: 10%;
+}
+.imgg{
+    text-align: center;
+}
+.imggg{
+    vertical-align: middle;
+    max-width: 100%;
+}
+
+.ktiba{
+    margin-bottom: 10%;
+}
+
+
+#wewant{
+    float: left;
+    margin-left: 20%;
+    width: 25%;
+}
+#wealso{
+    float: right;
+    margin-right: 20%;
+    width: 25%;
+
+}
+#st_title{
+    color: #a7e8bd;
+    text-align: center;
+}
+.cards{
+    display: flex;
+    /* align-items: stretch; */
+    margin-top: 200px;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-right: 20%;
+
+}
+
+.forpatients{
+    background-color: aquamarine;
+    color: white;
+    /* width: 50%; */
+    margin: 1%;
+    border-radius: 15px;
+}
+
+.fordoctors{
+    color: white;
+    background-color: darkcyan;
+    /* width: 50%; */
+    margin: 1%;
+    border-radius: 15px;
+}
+
+.worldsbiggesthealthcare{
+    background-color: deepskyblue;
+    display: flex;
+}
+
+.forclinics{
+    color: white;
+    background-color: navy;
+    /* width: 50%; */
+    margin: 1%;
+    border-radius: 15px;
+}
+.weareaculture{
+    display: flex;
+}
+
+.globalcompany{
+    float: left;
+    margin-left: 10%;
+}
+#waagcwlc{
+    color: #a7e8bd;
+}
+#wb{
+    color: navy;
+    margin-top: 10%;
+    margin-left: 35%;
+}
+
+#ww{
+    font-size: 100%;
+    margin-left: 35%;
+}
+
+#img_{
+    margin-left: 25%;
+}
+
+.boxes{
+    display: flex;
+}
+
+.leader{
+    background-color: white;
+    max-height: 35%;
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+.appointments{
+    background-color: white;
+    max-height: 35%;
+    margin-top: 2%;
+    border-radius: 5px;
+}
+.patientscisits{
+    background-color: white;
+    max-height: 35%;
+    text-align: center;
+    margin-top: 27%;
+    margin-right: 5%;
+    border-radius: 5px;
+
+}
+.doctorstrust{
+    background-color: white;
+    max-height: 45%;
+    text-align: center;
+    margin-top: 25%;
+    margin-right: 5%;
+    border-radius: 5px;
+
+}
+
+
+.improvethelives{
+    font-family: Roboto, Arial, sans-serif;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#cgh{
+    color: #a7e8bd;
+}
+
+#chg{
+    -webkit-font-smoothing: antialiased;
+}
+
+.bolden{
+    display: flex;
+    padding: 5%;
+}
+
+.cardwarsaw{
+    margin-right: 5%;
+}
+
+.ttz{
+    text-align: center;
+}
+
+.fooot{
+    text-align: center;
+}
